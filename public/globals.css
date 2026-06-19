@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+h1 {
+    background: linear-gradient(90deg, #58c6ff 0%, #076ad9 40%, #ff3bef 80%);
+    font-family: "Roboto", sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+div {
+    border:    
+}
+
+.main {
+    margin: 1.5%;
+}
+
+button {
+    background-color: black
+    color: white
+}
